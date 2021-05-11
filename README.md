@@ -1,2 +1,1 @@
-# portfolio-photo-filter
-HTML, CSS, JS
+# Deploy: https://whitekvazar.github.io/portfolio-photo-filter/photo-filter/
